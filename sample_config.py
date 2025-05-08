@@ -9,5 +9,5 @@ if HEROKU:
 
 # 
 if not HEROKU:
-    Bot_token = "Insert Bot_Token Here"
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    Bot_token = "7266490468:AAEsPDnsQ3bWdWNCX4rFMqJXNacnf6zKqlY"
+    ARQ_API_KEY = "BOCULW-SEMUAC-MGWSPF-RYCMCB-ARQ"
